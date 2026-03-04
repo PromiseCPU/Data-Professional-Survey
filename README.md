@@ -29,6 +29,7 @@ Charts used: Clustered Bar Chart, Stacked Column Chart, Tree Map, Gauge Chart, D
 
 ## Visualization: (snipping tool)
 An interactive end-to-end Power BI dashboard developed using Power BI Desktop.
+[Dashboard/ Visualization] (https://github.com/PromiseCPU/Data-Professional-Survey/commit/e55084df4403112f0524142de1fe4643af985efb).
 
 ## Key Insights:
 The United States recorded the highest proportion of survey respondents.
