@@ -13,7 +13,9 @@ The data profession is rapidly expanding, yet several factors influence career e
 Power BI (Power query, BI desktop, DAX)
 
 ## Dataset:
-A CSV dataset downloaded from a survey website. All data transformations were carried out in Power BI, while the dataset was imported from Microsoft Excel. [ Visit CSV Raw Survey Data File] (https://github.com/PromiseCPU/Data-Professional-Survey/commit/f536439dfbc207e10e6a1f3d422ea01b1ec94483)
+A CSV dataset downloaded from a survey website. All data transformations were carried out in Power BI, while the dataset was imported from Microsoft Excel. 
+[Visit CSV Raw Survey Data File] (https://github.com/PromiseCPU/Data-Professional-Survey/commit/f536439dfbc207e10e6a1f3d422ea01b1ec94483).
+[Visit PowerBI Interactive File] (https://github.com/PromiseCPU/Data-Professional-Survey/commit/2e51059aa00d2487e320e1d69327a19d9a50d993).
 
 ## Process:
 • Imported the CSV survey dataset from Excel into Power BI.
