@@ -32,12 +32,12 @@ An interactive end-to-end Power BI dashboard developed using Power BI Desktop.
 [Dashboard/ Visualization] (https://github.com/PromiseCPU/Data-Professional-Survey/commit/e55084df4403112f0524142de1fe4643af985efb).
 
 ## Key Insights:
-The United States recorded the highest proportion of survey respondents.
-Data Scientists reported the highest average salary among data professionals.
-On a scale of 0–10, professionals rated their work-life balance happiness at 5.74 and salary satisfaction at 4.27.
-Over 60% of respondents selected Python as their preferred programming language.
-A significant number of respondents expressed neutrality regarding the difficulty of entering the data profession.
-Additional observations showed a slightly higher representation of females within the dataset.
+* The United States recorded the highest proportion of survey respondents.
+* Data Scientists reported the highest average salary among data professionals.
+* On a scale of 0–10, professionals rated their work-life balance happiness at 5.74 and salary satisfaction at 4.27.
+* Over 60% of respondents selected Python as their preferred programming language.
+* A significant number of respondents expressed neutrality regarding the difficulty of entering the data profession.
+* Additional observations showed a slightly higher representation of females within the dataset.
 
 ## Conclusion:
 Effective data presentation requires proper data cleaning, transformation, and analysis. This project strengthened my understanding of how data analytics and visualization can support insights into global employment patterns within the data profession.
