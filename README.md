@@ -18,14 +18,14 @@ A CSV dataset downloaded from a survey website. All data transformations were ca
 [Visit PowerBI Interactive File] (https://github.com/PromiseCPU/Data-Professional-Survey/commit/2e51059aa00d2487e320e1d69327a19d9a50d993).
 
 ## Process:
-• Imported the CSV survey dataset from Excel into Power BI.
-• Performed data transformation using Power Query.
+* Imported the CSV survey dataset from Excel into Power BI.
+* Performed data transformation using Power Query.
 Transformations included:
-Split Column (by delimiter) used as a filtering tool.
-Split Column (digit to non-digit) used to calculate the average of salary bins.
-Custom Column used to edit and create new columns using DAX expressions.
-• Data Visualization and dashboard development.
-Charts used: Clustered Bar Chart, Stacked Column Chart, Tree Map, Gauge Chart, Donut Chart.
+* Split Column (by delimiter) used as a filtering tool.
+* Split Column (digit to non-digit) used to calculate the average of salary bins.
+* Custom Column used to edit and create new columns using DAX expressions.
+* Data Visualization and dashboard development.
+* Charts used: Clustered Bar Chart, Stacked Column Chart, Tree Map, Gauge Chart, Donut Chart.
 
 ## Visualization: (snipping tool)
 An interactive end-to-end Power BI dashboard developed using Power BI Desktop.
