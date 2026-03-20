@@ -29,7 +29,8 @@ Transformations included:
 
 ## Visualization: (snipping tool)
 An interactive end-to-end Power BI dashboard developed using Power BI Desktop.
-[Dashboard/ Visualization] (https://github.com/PromiseCPU/Data-Professional-Survey/commit/e55084df4403112f0524142de1fe4643af985efb).
+[Dashboard/ Visualization](https://github.com/PromiseCPU/Data-Professional-Survey/commit/e55084df4403112f0524142de1fe4643af985efb)
+
 ![image alt](https://github.com/PromiseCPU/Data-Professionals-Survey/blob/aef57ff8b2d854c7337cfa4f9c04d9d4057aa541/powerr_081208.png)
 
 ## Key Insights:
